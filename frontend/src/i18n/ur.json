@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "ہوم",
+    "about": "ہمارے بارے میں",
+    "programs": "پروگرام",
+    "gallery": "گیلری",
+    "events": "تقریبات",
+    "donate": "عطیہ دیں",
+    "contact": "رابطہ کریں",
+    "volunteer": "رضاکار",
+    "admissions": "داخلہ",
+    "admin": "ایڈمن"
+  },
+  "home": {
+    "hero_cta": "مزید جانیں",
+    "donate_cta": "ابھی عطیہ دیں",
+    "programs_heading": "ہمارے پروگرام",
+    "gallery_heading": "گیلری",
+    "testimonials_heading": "ہمارے معاشرے کی آراء",
+    "events_heading": "حالیہ تقریبات",
+    "founder_section_heading": "ہمارے بانی",
+    "donate_heading": "اسلامی تعلیم کی حمایت کریں",
+    "donate_subheading": "آپ کی فراخ دلی انیگری کے بچوں اور خاندانوں کو مفت اسلامی تعلیم فراہم کرنے میں مدد کرتی ہے۔",
+    "stat_students": "طلباء داخل",
+    "stat_years": "خدمت کے سال",
+    "stat_teachers": "باصلاحیت اساتذہ",
+    "stat_dedication": "ایمان سے وابستگی"
+  },
+  "about": {
+    "heading": "ہمارے بارے میں",
+    "mission_heading": "ہمارا مشن",
+    "founder_heading": "ہمارے بانی",
+    "history_heading": "تاریخ"
+  },
+  "programs": {
+    "heading": "پروگرام",
+    "enroll_cta": "داخلہ لیں",
+    "fee_free": "مفت",
+    "age_group": "عمری گروپ",
+    "duration": "مدت"
+  },
+  "gallery": {
+    "heading": "گیلری",
+    "view_album": "البم دیکھیں"
+  },
+  "events": {
+    "heading": "تقریبات اور اعلانات",
+    "no_events": "ابھی کوئی آنے والی تقریب نہیں۔"
+  },
+  "donate": {
+    "heading": "عطیہ کریں",
+    "mock_banner": "⚠ ٹیسٹ موڈ — کوئی حقیقی ادائیگی نہیں ہوگی",
+    "mock_subtitle": "یہ ایک ترقیاتی ماحول ہے۔ آپ کا پیسہ محفوظ ہے۔",
+    "step_phone": "مرحلہ ۱: فون کی تصدیق کریں",
+    "step_details": "مرحلہ ۲: عطیہ کی تفصیلات",
+    "step_pay": "مرحلہ ۳: ادائیگی مکمل کریں",
+    "phone_label": "موبائل نمبر",
+    "send_otp": "OTP بھیجیں",
+    "otp_label": "OTP درج کریں",
+    "verify_otp": "تصدیق کریں",
+    "phone_verified": "✓ فون کی تصدیق ہو گئی",
+    "name_label": "پورا نام",
+    "email_label": "ای میل (اختیاری)",
+    "fund_label": "عطیہ فنڈ",
+    "amount_label": "رقم (₹)",
+    "currency_label": "کرنسی",
+    "recurring_label": "باقاعدہ عطیہ بنائیں",
+    "pay_button": "محفوظ ادائیگی کریں",
+    "success_heading": "آپ کے عطیہ کا شکریہ!",
+    "success_message": "آپ کی مدد موصول ہو گئی اور تصدیق ہو گئی۔",
+    "otp_sent": "آپ کے نمبر پر OTP بھیجا گیا۔",
+    "otp_resend": "OTP دوبارہ بھیجیں"
+  },
+  "contact": {
+    "heading": "ہم سے رابطہ کریں",
+    "name_label": "آپ کا نام",
+    "email_label": "ای میل",
+    "phone_label": "فون (اختیاری)",
+    "subject_label": "موضوع",
+    "message_label": "پیغام",
+    "submit": "پیغام بھیجیں",
+    "success": "آپ کا پیغام بھیج دیا گیا۔ ہم جلد رابطہ کریں گے۔"
+  },
+  "volunteer": {
+    "heading": "رضاکار بنیں",
+    "name_label": "پورا نام",
+    "phone_label": "فون",
+    "email_label": "ای میل (اختیاری)",
+    "skills_label": "مہارتیں / دلچسپی کے شعبے",
+    "availability_label": "دستیابی",
+    "message_label": "آپ رضاکار کیوں بننا چاہتے ہیں؟",
+    "submit": "درخواست جمع کریں",
+    "success": "آپ کی رضاکارانہ درخواست جمع ہو گئی۔ شکریہ!"
+  },
+  "admissions": {
+    "heading": "داخلہ کے لیے درخواست دیں",
+    "student_name_label": "طالب علم کا نام",
+    "parent_name_label": "والدین / سرپرست کا نام",
+    "phone_label": "فون",
+    "email_label": "ای میل (اختیاری)",
+    "program_label": "پروگرام منتخب کریں",
+    "age_label": "طالب علم کی عمر",
+    "message_label": "اضافی معلومات",
+    "submit": "درخواست جمع کریں",
+    "success": "آپ کی درخواست موصول ہو گئی۔ ہم جلد رابطہ کریں گے۔"
+  },
+  "footer": {
+    "rights": "تمام حقوق محفوظ ہیں۔",
+    "address_label": "پتہ",
+    "follow_us": "ہمیں فالو کریں"
+  },
+  "admin": {
+    "login_heading": "ایڈمن لاگ ان",
+    "phone_label": "ایڈمن فون نمبر",
+    "send_otp": "OTP بھیجیں",
+    "otp_label": "OTP درج کریں",
+    "verify_login": "لاگ ان",
+    "dashboard": "ڈیش بورڈ",
+    "settings": "سائٹ کی ترتیبات",
+    "banners": "بینر تصاویر",
+    "programs": "پروگرام",
+    "instructors": "اساتذہ",
+    "events": "تقریبات",
+    "testimonials": "آراء",
+    "donation_funds": "عطیہ فنڈز",
+    "donations": "عطیات",
+    "enrollments": "داخلے",
+    "volunteers": "رضاکار",
+    "contacts": "رابطہ پیغامات",
+    "logout": "لاگ آؤٹ",
+    "add_new": "نیا شامل کریں",
+    "edit": "ترمیم",
+    "delete": "حذف کریں",
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ",
+    "confirm_delete": "کیا آپ واقعی اس آئٹم کو حذف کرنا چاہتے ہیں؟",
+    "loading": "لوڈ ہو رہا ہے...",
+    "no_items": "کوئی آئٹم نہیں ملا۔",
+    "founder_name_label": "بانی کا نام",
+    "founder_title_label": "بانی کا عہدہ"
+  },
+  "common": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "error": "کچھ غلط ہو گیا۔ دوبارہ کوشش کریں۔",
+    "back": "واپس",
+    "read_more": "مزید پڑھیں",
+    "close": "بند کریں",
+    "search": "تلاش"
+  }
+}

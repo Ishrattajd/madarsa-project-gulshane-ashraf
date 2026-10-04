@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "ಮನೆ",
+    "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+    "programs": "ಕಾರ್ಯಕ್ರಮಗಳು",
+    "gallery": "ಗ್ಯಾಲರಿ",
+    "events": "ಕಾರ್ಯಕ್ರಮಗಳು",
+    "donate": "ದಾನ ಮಾಡಿ",
+    "contact": "ಸಂಪರ್ಕಿಸಿ",
+    "volunteer": "ಸ್ವಯಂಸೇವಕ",
+    "admissions": "ಪ್ರವೇಶ",
+    "admin": "ನಿರ್ವಾಹಕ"
+  },
+  "home": {
+    "hero_cta": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ",
+    "donate_cta": "ಈಗ ದಾನ ಮಾಡಿ",
+    "programs_heading": "ನಮ್ಮ ಕಾರ್ಯಕ್ರಮಗಳು",
+    "gallery_heading": "ಗ್ಯಾಲರಿ",
+    "testimonials_heading": "ನಮ್ಮ ಸಮುದಾಯ ಏನು ಹೇಳುತ್ತದೆ",
+    "events_heading": "ಇತ್ತೀಚಿನ ಕಾರ್ಯಕ್ರಮಗಳು",
+    "founder_section_heading": "ನಮ್ಮ ಸ್ಥಾಪಕರು",
+    "donate_heading": "ಇಸ್ಲಾಮಿಕ್ ಶಿಕ್ಷಣಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿ",
+    "donate_subheading": "ನಿಮ್ಮ ಔದಾರ್ಯವು ಅಣ್ಣಿಗೇರಿಯ ಮಕ್ಕಳಿಗೆ ಉಚಿತ ಇಸ್ಲಾಮಿಕ್ ಶಿಕ್ಷಣ ನೀಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "stat_students": "ವಿದ್ಯಾರ್ಥಿಗಳು",
+    "stat_years": "ಸೇವಾ ವರ್ಷಗಳು",
+    "stat_teachers": "ಅರ್ಹ ಶಿಕ್ಷಕರು",
+    "stat_dedication": "ನಿಷ್ಠೆ"
+  },
+  "about": {
+    "heading": "ನಮ್ಮ ಬಗ್ಗೆ",
+    "mission_heading": "ನಮ್ಮ ಮಿಷನ್",
+    "founder_heading": "ನಮ್ಮ ಸ್ಥಾಪಕರು",
+    "history_heading": "ಇತಿಹಾಸ"
+  },
+  "programs": {
+    "heading": "ಕಾರ್ಯಕ್ರಮಗಳು",
+    "enroll_cta": "ಈಗ ನೋಂದಾಯಿಸಿ",
+    "fee_free": "ಉಚಿತ",
+    "age_group": "ವಯಸ್ಸಿನ ಗುಂಪು",
+    "duration": "ಅವಧಿ"
+  },
+  "gallery": {
+    "heading": "ಗ್ಯಾಲರಿ",
+    "view_album": "ಆಲ್ಬಮ್ ವೀಕ್ಷಿಸಿ"
+  },
+  "events": {
+    "heading": "ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು ಪ್ರಕಟಣೆಗಳು",
+    "no_events": "ಪ್ರಸ್ತುತ ಯಾವುದೇ ಮುಂಬರುವ ಕಾರ್ಯಕ್ರಮಗಳಿಲ್ಲ."
+  },
+  "donate": {
+    "heading": "ದಾನ ಮಾಡಿ",
+    "mock_banner": "⚠ ಪರೀಕ್ಷಾ ಮೋಡ್ — ನಿಜವಾದ ಪಾವತಿ ಆಗುವುದಿಲ್ಲ",
+    "mock_subtitle": "ಇದು ಅಭಿವೃದ್ಧಿ ಪರಿಸರ. ನಿಮ್ಮ ಹಣ ಸುರಕ್ಷಿತ.",
+    "step_phone": "ಹಂತ ೧: ನಿಮ್ಮ ಫೋನ್ ದೃಢೀಕರಿಸಿ",
+    "step_details": "ಹಂತ ೨: ದಾನದ ವಿವರಗಳು",
+    "step_pay": "ಹಂತ ೩: ಪಾವತಿ ಪೂರ್ಣಗೊಳಿಸಿ",
+    "phone_label": "ಮೊಬೈಲ್ ನಂಬರ್",
+    "send_otp": "OTP ಕಳುಹಿಸಿ",
+    "otp_label": "OTP ನಮೂದಿಸಿ",
+    "verify_otp": "ದೃಢೀಕರಿಸಿ",
+    "phone_verified": "✓ ಫೋನ್ ದೃಢೀಕರಿಸಲಾಗಿದೆ",
+    "name_label": "ಪೂರ್ಣ ಹೆಸರು",
+    "email_label": "ಇಮೇಲ್ (ಐಚ್ಛಿಕ)",
+    "fund_label": "ದಾನ ನಿಧಿ",
+    "amount_label": "ಮೊತ್ತ (₹)",
+    "currency_label": "ಕರೆನ್ಸಿ",
+    "recurring_label": "ಪುನರಾವರ್ತಿತ ದಾನ ಮಾಡಿ",
+    "pay_button": "ಸುರಕ್ಷಿತವಾಗಿ ಪಾವತಿಸಿ",
+    "success_heading": "ನಿಮ್ಮ ದಾನಕ್ಕೆ ಧನ್ಯವಾದಗಳು!",
+    "success_message": "ನಿಮ್ಮ ಕೊಡುಗೆ ಸ್ವೀಕರಿಸಲಾಗಿದೆ ಮತ್ತು ದೃಢೀಕರಿಸಲಾಗಿದೆ.",
+    "otp_sent": "OTP ನಿಮ್ಮ ನಂಬರ್‌ಗೆ ಕಳುಹಿಸಲಾಗಿದೆ.",
+    "otp_resend": "OTP ಮರು-ಕಳುಹಿಸಿ"
+  },
+  "contact": {
+    "heading": "ಸಂಪರ್ಕಿಸಿ",
+    "name_label": "ನಿಮ್ಮ ಹೆಸರು",
+    "email_label": "ಇಮೇಲ್",
+    "phone_label": "ಫೋನ್ (ಐಚ್ಛಿಕ)",
+    "subject_label": "ವಿಷಯ",
+    "message_label": "ಸಂದೇಶ",
+    "submit": "ಸಂದೇಶ ಕಳುಹಿಸಿ",
+    "success": "ನಿಮ್ಮ ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಿದೆ. ನಾವು ಶೀಘ್ರದಲ್ಲೇ ಸಂಪರ್ಕಿಸುತ್ತೇವೆ."
+  },
+  "volunteer": {
+    "heading": "ನಮ್ಮೊಂದಿಗೆ ಸ್ವಯಂಸೇವಕರಾಗಿ",
+    "name_label": "ಪೂರ್ಣ ಹೆಸರು",
+    "phone_label": "ಫೋನ್",
+    "email_label": "ಇಮೇಲ್ (ಐಚ್ಛಿಕ)",
+    "skills_label": "ಕೌಶಲ್ಯಗಳು / ಆಸಕ್ತಿಯ ಕ್ಷೇತ್ರಗಳು",
+    "availability_label": "ಲಭ್ಯತೆ",
+    "message_label": "ನೀವು ಏಕೆ ಸ್ವಯಂಸೇವಕರಾಗಲು ಬಯಸುತ್ತೀರಿ?",
+    "submit": "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ",
+    "success": "ನಿಮ್ಮ ಸ್ವಯಂಸೇವಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಲಾಗಿದೆ. ಧನ್ಯವಾದಗಳು!"
+  },
+  "admissions": {
+    "heading": "ಪ್ರವೇಶಕ್ಕಾಗಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ",
+    "student_name_label": "ವಿದ್ಯಾರ್ಥಿ ಹೆಸರು",
+    "parent_name_label": "ಪಾಲಕ / ರಕ್ಷಕ ಹೆಸರು",
+    "phone_label": "ಫೋನ್",
+    "email_label": "ಇಮೇಲ್ (ಐಚ್ಛಿಕ)",
+    "program_label": "ಕಾರ್ಯಕ್ರಮ ಆಯ್ಕೆ ಮಾಡಿ",
+    "age_label": "ವಿದ್ಯಾರ್ಥಿಯ ವಯಸ್ಸು",
+    "message_label": "ಹೆಚ್ಚುವರಿ ಮಾಹಿತಿ",
+    "submit": "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ",
+    "success": "ನಿಮ್ಮ ಅರ್ಜಿ ಸ್ವೀಕರಿಸಲಾಗಿದೆ. ನಾವು ಶೀಘ್ರದಲ್ಲೇ ಸಂಪರ್ಕಿಸುತ್ತೇವೆ."
+  },
+  "footer": {
+    "rights": "ಎಲ್ಲ ಹಕ್ಕುಗಳು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
+    "address_label": "ವಿಳಾಸ",
+    "follow_us": "ನಮ್ಮನ್ನು ಅನುಸರಿಸಿ"
+  },
+  "admin": {
+    "login_heading": "ನಿರ್ವಾಹಕ ಲಾಗಿನ್",
+    "phone_label": "ನಿರ್ವಾಹಕ ಫೋನ್ ನಂಬರ್",
+    "send_otp": "OTP ಕಳುಹಿಸಿ",
+    "otp_label": "OTP ನಮೂದಿಸಿ",
+    "verify_login": "ಲಾಗಿನ್",
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "settings": "ಸೈಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "banners": "ಬ್ಯಾನರ್ ಚಿತ್ರಗಳು",
+    "programs": "ಕಾರ್ಯಕ್ರಮಗಳು",
+    "instructors": "ಶಿಕ್ಷಕರು",
+    "events": "ಕಾರ್ಯಕ್ರಮಗಳು",
+    "testimonials": "ಅನಿಸಿಕೆಗಳು",
+    "donation_funds": "ದಾನ ನಿಧಿಗಳು",
+    "donations": "ದಾನಗಳು",
+    "enrollments": "ನೋಂದಣಿಗಳು",
+    "volunteers": "ಸ್ವಯಂಸೇವಕರು",
+    "contacts": "ಸಂಪರ್ಕ ಸಂದೇಶಗಳು",
+    "logout": "ಲಾಗ್ ಔಟ್",
+    "add_new": "ಹೊಸದು ಸೇರಿಸಿ",
+    "edit": "ಸಂಪಾದಿಸಿ",
+    "delete": "ಅಳಿಸಿ",
+    "save": "ಉಳಿಸಿ",
+    "cancel": "ರದ್ದು",
+    "confirm_delete": "ಈ ಐಟಂ ಅನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "no_items": "ಯಾವುದೇ ಐಟಂ ಸಿಗಲಿಲ್ಲ.",
+    "founder_name_label": "ಸ್ಥಾಪಕರ ಹೆಸರು",
+    "founder_title_label": "ಸ್ಥಾಪಕರ ಶೀರ್ಷಿಕೆ"
+  },
+  "common": {
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "error": "ಏನೋ ತಪ್ಪಾಯಿತು. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+    "back": "ಹಿಂದೆ",
+    "read_more": "ಇನ್ನಷ್ಟು ಓದಿ",
+    "close": "ಮುಚ್ಚಿ",
+    "search": "ಹುಡುಕಿ"
+  }
+}

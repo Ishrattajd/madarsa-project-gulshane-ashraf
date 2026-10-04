@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "gallery": "Gallery",
+    "events": "Events",
+    "donate": "Donate",
+    "contact": "Contact",
+    "volunteer": "Volunteer",
+    "admissions": "Admissions",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero_cta": "Learn More",
+    "donate_cta": "Donate Now",
+    "programs_heading": "Our Programs",
+    "gallery_heading": "Gallery",
+    "testimonials_heading": "What Our Community Says",
+    "events_heading": "Recent Events",
+    "founder_section_heading": "Our Founder",
+    "donate_heading": "Support Islamic Education",
+    "donate_subheading": "Your generosity helps us provide free and affordable Islamic education to children and families in Annigeri.",
+    "stat_students": "Students Enrolled",
+    "stat_years": "Years of Service",
+    "stat_teachers": "Qualified Teachers",
+    "stat_dedication": "Commitment to Faith"
+  },
+  "about": {
+    "heading": "About Us",
+    "mission_heading": "Our Mission",
+    "founder_heading": "Our Founder",
+    "history_heading": "History"
+  },
+  "programs": {
+    "heading": "Programs",
+    "enroll_cta": "Enroll Now",
+    "fee_free": "Free",
+    "age_group": "Age Group",
+    "duration": "Duration"
+  },
+  "gallery": {
+    "heading": "Gallery",
+    "view_album": "View Album"
+  },
+  "events": {
+    "heading": "Events & Announcements",
+    "no_events": "No upcoming events at this time."
+  },
+  "donate": {
+    "heading": "Make a Donation",
+    "mock_banner": "⚠ TEST MODE — NO REAL PAYMENT WILL BE PROCESSED",
+    "mock_subtitle": "This is a development environment. Your money is safe.",
+    "step_phone": "Step 1: Verify Your Phone",
+    "step_details": "Step 2: Donation Details",
+    "step_pay": "Step 3: Complete Payment",
+    "phone_label": "Mobile Number",
+    "send_otp": "Send OTP",
+    "otp_label": "Enter OTP",
+    "verify_otp": "Verify",
+    "phone_verified": "✓ Phone verified",
+    "name_label": "Full Name",
+    "email_label": "Email (optional)",
+    "fund_label": "Donation Fund",
+    "amount_label": "Amount (₹)",
+    "currency_label": "Currency",
+    "recurring_label": "Make this a recurring donation",
+    "pay_button": "Pay Securely",
+    "success_heading": "Thank you for your donation!",
+    "success_message": "Your contribution has been received and verified.",
+    "otp_sent": "OTP sent to your number.",
+    "otp_resend": "Resend OTP"
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "name_label": "Your Name",
+    "email_label": "Email",
+    "phone_label": "Phone (optional)",
+    "subject_label": "Subject",
+    "message_label": "Message",
+    "submit": "Send Message",
+    "success": "Your message has been sent. We'll be in touch soon."
+  },
+  "volunteer": {
+    "heading": "Volunteer With Us",
+    "name_label": "Full Name",
+    "phone_label": "Phone",
+    "email_label": "Email (optional)",
+    "skills_label": "Skills / Areas of Interest",
+    "availability_label": "Availability",
+    "message_label": "Why do you want to volunteer?",
+    "submit": "Submit Application",
+    "success": "Your volunteer application has been submitted. Thank you!"
+  },
+  "admissions": {
+    "heading": "Apply for Admission",
+    "student_name_label": "Student Name",
+    "parent_name_label": "Parent / Guardian Name",
+    "phone_label": "Phone",
+    "email_label": "Email (optional)",
+    "program_label": "Select Program",
+    "age_label": "Student Age",
+    "message_label": "Additional Information",
+    "submit": "Submit Application",
+    "success": "Your application has been received. We will contact you shortly."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "address_label": "Address",
+    "follow_us": "Follow Us"
+  },
+  "admin": {
+    "login_heading": "Admin Login",
+    "phone_label": "Admin Phone Number",
+    "send_otp": "Send OTP",
+    "otp_label": "Enter OTP",
+    "verify_login": "Login",
+    "dashboard": "Dashboard",
+    "settings": "Site Settings",
+    "banners": "Banner Images",
+    "programs": "Programs",
+    "instructors": "Instructors",
+    "events": "Events",
+    "testimonials": "Testimonials",
+    "donation_funds": "Donation Funds",
+    "donations": "Donations",
+    "enrollments": "Enrollments",
+    "volunteers": "Volunteers",
+    "contacts": "Contact Messages",
+    "logout": "Logout",
+    "add_new": "Add New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm_delete": "Are you sure you want to delete this item?",
+    "loading": "Loading...",
+    "no_items": "No items found.",
+    "founder_name_label": "Founder Name",
+    "founder_title_label": "Founder Title / Designation"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "back": "Back",
+    "read_more": "Read More",
+    "close": "Close",
+    "search": "Search"
+  }
+}
